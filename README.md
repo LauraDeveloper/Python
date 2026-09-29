@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas
 e utilizo este repositório para documentar minha evolução
 na programação.
 
-## Tecnologias
+## Tecnicas
 
 - Python
 - Git
